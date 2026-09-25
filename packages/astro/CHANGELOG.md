@@ -1,5 +1,11 @@
 # astro
 
+## 7.3.6
+
+### Patch Changes
+
+- [#18114](https://github.com/withastro/astro/pull/18114) [`c17d920`](https://github.com/withastro/astro/commit/c17d9209bef385ea88b6fee36e91ad4e635f4a86) Thanks [@matthewp](https://github.com/matthewp)! - Fixes Astro on StackBlitz and other WebContainer environments
+
 ## 7.3.5
 
 ### Patch Changes
